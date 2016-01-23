@@ -6,7 +6,10 @@
       'thinkster.config',
       'thinkster.routes',
       'thinkster.authentication',
-      'thinkster.layout'
+      'thinkster.layout',
+      'thinkster.utils',
+      'thinkster.posts',
+      'thinkster.profiles'
     ])
     .run(run);
 
